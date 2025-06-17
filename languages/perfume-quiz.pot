@@ -1,0 +1,151 @@
+# Copyright (C) 2023 پرشین دیجیتال | Persian Digital
+# This file is distributed under the same license as the Perfume Quiz package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Perfume Quiz 1.1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/perfume-quiz\n"
+"POT-Creation-Date: 2023-12-31 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Persian Digital <info@persiandigital.com>\n"
+"Language-Team: Persian Digital <info@persiandigital.com>\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: perfume-quiz\n"
+
+#. Plugin Name of the plugin
+msgid "Perfume Quiz"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://persiandigital.com"
+msgstr ""
+
+#. Description of the plugin
+msgid "یک آزمون برای کمک به مشتریان در یافتن عطر مناسب"
+msgstr ""
+
+#. Author of the plugin
+msgid "پرشین دیجیتال | Persian Digital"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://persiandigital.com"
+msgstr ""
+
+#: perfume-quiz.php:61
+msgid "در حال بارگذاری..."
+msgstr ""
+
+#: perfume-quiz.php:62
+msgid "خطایی رخ داده است. لطفاً دوباره تلاش کنید."
+msgstr ""
+
+#: perfume-quiz.php:63
+msgid "هیچ محصولی مطابق با ترجیحات شما یافت نشد."
+msgstr ""
+
+#: perfume-quiz.php:64
+msgid "مشاهده محصول"
+msgstr ""
+
+#: includes/class-perfume-quiz-ajax.php:12
+msgid "متأسفانه محصولی با این ویژگی‌ها پیدا نشد."
+msgstr ""
+
+#: includes/class-perfume-quiz-ajax.php:13
+msgid "خطا در پردازش درخواست"
+msgstr ""
+
+#: includes/class-perfume-quiz-ajax.php:14
+msgid "تعداد %d محصول مطابق با انتخاب شما پیدا شد:"
+msgstr ""
+
+#: includes/class-perfume-quiz-ajax.php:15
+msgid "متأسفانه محصولی دقیقاً مطابق با سلیقه شما پیدا نکردیم، اما این محصولات جذاب را پیشنهاد می‌کنیم:"
+msgstr ""
+
+#: includes/class-perfume-quiz-ajax.php:18
+msgid "موجود در انبار"
+msgstr ""
+
+#: includes/class-perfume-quiz-ajax.php:19
+msgid "ناموجود"
+msgstr ""
+
+#: includes/class-perfume-quiz-ajax.php:20
+msgid "قابل پیش‌سفارش"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:17
+msgid "تنظیمات کوئیز عطر"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:18
+msgid "کوئیز عطر"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:61
+msgid "تنظیمات با موفقیت ذخیره شد."
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:72
+msgid "هیچ ویژگی محصولی در ووکامرس تعریف نشده است. لطفاً ابتدا ویژگی‌های محصول را در تنظیمات ووکامرس تعریف کنید."
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:92
+msgid "فعال"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:99
+msgid "این ویژگی در کوئیز نمایش داده شود"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:105
+msgid "اجباری"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:112
+msgid "انتخاب این ویژگی اجباری است"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:118
+msgid "انتخاب چندگانه"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:125
+msgid "امکان انتخاب چند گزینه"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:131
+msgid "ترتیب نمایش"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:143
+msgid "ذخیره تنظیمات"
+msgstr ""
+
+#: includes/class-perfume-quiz-settings.php:148
+msgid "راهنما"
+msgstr ""
+
+#: templates/quiz-form.php:12
+msgid "هیچ سوالی برای نمایش وجود ندارد."
+msgstr ""
+
+#: templates/quiz-form.php:48
+msgid "قبلی"
+msgstr ""
+
+#: templates/quiz-form.php:49
+msgid "بعدی"
+msgstr ""
+
+#: templates/quiz-form.php:50
+msgid "نمایش نتایج"
+msgstr ""
+
+#: templates/quiz-form.php:54
+msgid "در حال جستجوی محصولات..."
+msgstr "" 

@@ -1,0 +1,159 @@
+/* RTL-specific styles */
+.rtl .option-label input[type="radio"] {
+    margin-right: 0;
+    margin-left: 0.75rem;
+}
+
+.rtl .quiz-navigation {
+    flex-direction: row-reverse;
+}
+
+.rtl .product-title,
+.rtl .product-description,
+.rtl .question-title {
+    text-align: right;
+}
+
+.rtl .product-info {
+    text-align: right;
+}
+
+.rtl .view-product {
+    margin-right: 0;
+    margin-left: auto;
+}
+
+/* Persian font support */
+.rtl {
+    font-family: 'Vazirmatn', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Adjust spacing for Persian text */
+.rtl .question-options {
+    direction: rtl;
+}
+
+.rtl .option-label {
+    text-align: right;
+}
+
+/* Adjust product card layout for RTL */
+.rtl .product-card {
+    direction: rtl;
+}
+
+.rtl .product-price {
+    direction: ltr;
+    unicode-bidi: embed;
+}
+
+/* Loading spinner direction */
+.rtl .loading-spinner {
+    animation: spinRTL 1s linear infinite;
+}
+
+@keyframes spinRTL {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(-360deg); }
+}
+
+/* RTL Styles for Perfume Quiz */
+.perfume-quiz-container {
+    direction: rtl;
+    text-align: right;
+}
+
+.quiz-question {
+    text-align: right;
+}
+
+.quiz-options {
+    text-align: right;
+}
+
+.quiz-option {
+    margin-right: 10px;
+    margin-left: 0;
+}
+
+.quiz-navigation {
+    direction: rtl;
+}
+
+.prev-question,
+.next-question {
+    float: right;
+}
+
+.products-grid {
+    direction: rtl;
+}
+
+.product-card {
+    text-align: right;
+}
+
+.product-info {
+    text-align: right;
+}
+
+.product-title {
+    text-align: right;
+}
+
+.product-description {
+    text-align: right;
+}
+
+.view-product {
+    float: left;
+}
+
+/* Loading spinner */
+.quiz-loading {
+    direction: rtl;
+}
+
+/* Error messages */
+.quiz-error {
+    text-align: right;
+}
+
+/* No products message */
+.no-products {
+    text-align: right;
+}
+
+/* Progress bar */
+.progress-container {
+    direction: rtl;
+}
+
+.progress-text {
+    right: 0;
+    left: auto;
+}
+
+/* Form elements */
+input[type="radio"],
+input[type="checkbox"] {
+    margin-right: 0;
+    margin-left: 5px;
+}
+
+label {
+    margin-right: 5px;
+    margin-left: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .quiz-option {
+        margin-right: 5px;
+        margin-left: 0;
+    }
+    
+    .product-card {
+        text-align: right;
+    }
+} 
