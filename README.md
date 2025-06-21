@@ -6,6 +6,15 @@ A smart system for finding the right product for customers.
 
 This plugin provides a smart system for finding the right product for customers.
 
+## Translation
+
+The plugin comes with full translation support:
+
+- English (default)
+- Persian (Farsi)
+
+You can add more translations by adding .po/.mo files to the `languages` directory.
+
 ## Installation
 
 1. Upload the plugin files to the `/wp-content/plugins/product-quiz` directory, or install the plugin through the WordPress plugins screen directly.
@@ -54,11 +63,10 @@ Copyright (c) 2025, Mohammad Nasser Haji Hashemabad
 For support, please visit [Mohammad Nasser Haji Hashemabad](https://mohammadnasser.com) or email us at info@mohammadnasser.com
 
 ## Credits
-
 Developed by [Mohammad Nasser Haji Hashemabad](https://mohammadnasser.com) 
-## Author
-
-محمد ناصر حاجی هاشم آباد Mohammad Nasser Haji Hashemabad
+* Author: محمد ناصر حاجی هاشم آباد Mohammad Nasser Haji Hashemabad
+* Email: info@mohammadnasser.com
+* Website: mohammadnasser.com
 
 ## Links
 
